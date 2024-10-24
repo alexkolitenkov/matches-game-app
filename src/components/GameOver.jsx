@@ -1,4 +1,4 @@
-import '../assets/css/gameover.css';
+import '../assets/css/gameOver.css';
 
 export const GameOver = ({ winner, onRestart }) => {
     return (
