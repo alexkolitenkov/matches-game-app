@@ -1,0 +1,12 @@
+.introSection {
+    background-color: #c9c6bd;
+    color: #6e1913;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.introductionTitle {
+    margin-block-end: 1rem;
+    font-size: var(--fs-400);
+    text-align: center;
+}
